@@ -1,0 +1,58 @@
+_repo: Christmas-tales-of-Flanders_64134
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Ridder, André de
+    aliases:
+    - De Ridder, André (André Frans Maria)
+    - Ridder, Andre de
+    birthdate: 1888
+    deathdate: 1961
+    gutenberg_agent_id: '52765'
+    url: http://www.gutenberg.org/2009/agents/52765
+    wikipedia: https://nl.wikipedia.org/wiki/Andr%C3%A9_de_Ridder_(auteur)
+  illustrator:
+    agent_name: Boschère, Jean de
+    aliases:
+    - Bosschère, Jean de
+    - Boschere, Jean de
+    - Bosschere, Jean de
+    - De Boschère, Jean
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '35828'
+    url: http://www.gutenberg.org/2009/agents/35828
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_de_Bossch%C3%A8re
+    - https://en.wikipedia.org/wiki/Jean_de_Bossch%C3%A8re
+  translator:
+    agent_name: Morris, M. C. O.
+    gutenberg_agent_id: '52766'
+    url: http://www.gutenberg.org/2009/agents/52766
+description: Selected from the "Zoo vertellen de Vlamingen" of Pol de Mont and Alfons
+  de Cock and from the "Brabantsch sagenbock" of Isidoor Teirlinck by André de Ridder.
+gutenberg_issued: '2020-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64134'
+  lccn: '18006940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Belgium'
+- !lcc 'PZ'
+- !lcsh 'Tales -- Flanders'
+- !lcsh 'Flemings -- Folklore'
+- GITenberg
+tableOfContents: The rich woman and the poor woman -- The story of Seppy -- The enchanted
+  apple-tree -- The convent free from care -- The witches' cellar -- The boy who always
+  said the wrong thing -- Hop-o'-my-Thumb -- The Emperor's parrot -- The little blacksmith
+  Verholen -- Balten and the wolf -- The mermaid -- The story of the Little Half-cock
+  -- The dwarf and the blacksmith -- Percy the wizard, nicknamed Snail -- Simple John
+  -- The two chickens or the two ears -- The wonderful fish -- The frying-pan -- Farmer
+  Broom, Farmer Leaves, and Farmer Iron -- Little Lodewyk and Annie the witch -- The
+  giant of the Causeway -- The key-flower -- The ogre.
+title: Christmas tales of Flanders
+url: http://www.gutenberg.org/ebooks/64134
